@@ -2,6 +2,7 @@
 
 <p>Este projeto é um clone no Netflix responsivo, feito com HTML CSS e Javascript</p>
 
+![pagina](https://user-images.githubusercontent.com/79489384/162593911-44a6855a-ba2b-4818-90f0-3dbec8b1ed21.png)
 
 <hr>
 
